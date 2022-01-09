@@ -1,6 +1,5 @@
 # BTO_Stock_Bot
 BillionToOne Clinical Laboratory Fast-Moving Consumable Webscraper Bot 
-https://docs.google.com/spreadsheets/d/1FvEBuAPesEK5jDAn4dEYAffzfFH3ljfNbl5o7S2Dz5k/edit#gid=917003116
 
 ### Purpose: 
 Selenium Webdriver script that webscrapes BTO Stock-Boss data. Updates 'weekly inventory check on fast moving stock' - main goal is to proactively catch fast moving stock at low quantity so #supply-chain channel members can purchase more ASAP + confirm current BTO standing orders with ULS and external suppliers.
